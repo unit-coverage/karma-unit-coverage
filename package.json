@@ -1,0 +1,14 @@
+{
+  "name": "karma-unit-coverage",
+  "version": "4.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Marat Dulin",
+  "repository": "https://github.com/unit-coverage/karma-unit-coverage",
+  "license": "MIT",
+  "dependencies": {
+    "minimatch": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {}
+}
